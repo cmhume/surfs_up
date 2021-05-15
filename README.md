@@ -9,6 +9,9 @@ The purpose of this project is to look at data from weather stations in Oahu, Ha
 link to hawaii.sqlite: https://github.com/cmhume/surfs_up/blob/5386659b70a6c3c7c63edc8d738204e85705ed27/hawaii.sqlite
 
 
+link to jupyter notebook: https://github.com/cmhume/surfs_up/blob/0368d9150dcf2aae21aea212a374eca80f43fc53/SurfsUp_Challenge.ipynb
+
+
 ## Results:
 
 
