@@ -3,7 +3,10 @@
 
 ## Overview:
 
-The purpose of this project is to look at data from weather stations in Oahu, Hawaii for the months of December and June to determine if a surf and ice cream shop business is sustainable in both summer and winter months.  Using jupyter notebook, sqlalchemy, and pandas functions, summary statistics for June and December temperatures in degrees Farhenheit, found in the hawaii.sqlite database were calculated for comparison after placing the sqlite query data into pandas DataFrames. The hawaii.sqlite database conatained weather data for all months from the years 2010 to 2017. Weather data included the weather station id, precipitation(prcp), temperature observation(tobs), and date.
+The purpose of this project is to look at data from weather stations in Oahu, Hawaii for the months of December and June to determine if a surf and ice cream shop business is sustainable in both summer and winter months.  Using jupyter notebook, sqlalchemy, and pandas functions, summary statistics for June and December temperatures in degrees Farhenheit were calculated for comparison after placing the queries of the hawaii.sqlite database into pandas DataFrames. The hawaii.sqlite database contained weather data for all months from the years 2010 to 2017. Weather data included the weather station id, precipitation(prcp), temperature observation(tobs), and date.
+
+
+link to hawaii.sqlite: https://github.com/cmhume/surfs_up/blob/5386659b70a6c3c7c63edc8d738204e85705ed27/hawaii.sqlite
 
 
 ## Results:
