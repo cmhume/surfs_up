@@ -25,12 +25,12 @@ link to jupyter notebook: https://github.com/cmhume/surfs_up/blob/0368d9150dcf2a
 * There are more June temperature observations, a total of 1,700, than December temperature observations, with a total of 1,517.
 
 
-#### June temperature summary statistics
+#### June temperature summary statistics:
 
 ![june_temp_stats](https://user-images.githubusercontent.com/78699521/118415238-27739780-b65e-11eb-921a-a275468a0d48.png)
 
 
-#### December temperature summary statistics
+#### December temperature summary statistics:
 
 
 ![dec_temp_stats](https://user-images.githubusercontent.com/78699521/118415248-31959600-b65e-11eb-8138-e5897d13aaed.png)
